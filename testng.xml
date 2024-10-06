@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="5" verbose="10" preserve-order="true">
+    <listeners>
+        <listener class-name="org.myProject.listeners.TestListener"/>
+        <listener class-name="org.myProject.listeners.RetryListener"/>
+    </listeners>
+    <test name="LandingPageTest">
+        <classes>
+            <class name="org.myProject.testSuite.LandingPageTest"/>
+        </classes>
+    </test>
+    <test name="LoginTest">
+        <classes>
+            <class name="org.myProject.testSuite.LoginPageTest"/>
+        </classes>
+    </test>
+</suite>

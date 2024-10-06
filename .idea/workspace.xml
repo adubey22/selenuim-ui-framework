@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da26fb5d-0974-4327-abe0-290a5d525f2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/configManager/ConfigFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/configManager/FrameworkConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/emailManager/EmailAttachmentsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/emailManager/EmailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/emailManager/EmailSendUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/ActionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/LocatorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/TestCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myProject/enums/WaitStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2n3zabjJrWYndfqhXVqYw9HJIGR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/abhinavkumardubey/EMR-Automation/myGithubSample/ui_automation_selenium/testng.xml.executor": "Run",
+    "TestNG.LandingPageTest.verifyLandingPage.executor": "Run",
+    "TestNG.LoginPageTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/abhinavkumardubey/EMR-Automation/myGithubSample/ui_automation_selenium/src/main/java/org/myProject/listeners",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/myProject/listeners" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/myProject/frameworkComstants" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.myProject.testBase" />
+      <recent name="org.myProject.driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/abhinavkumardubey/EMR-Automation/myGithubSample/ui_automation_selenium/testng.xml">
+    <configuration name="LandingPageTest.verifyLandingPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui_automation_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.myProject.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.myProject.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="org.myProject.testSuite.LandingPageTest" />
+      <option name="METHOD_NAME" value="verifyLandingPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui_automation_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.myProject.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.myProject.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="org.myProject.testSuite.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/abhinavkumardubey/EMR-Automation/myGithubSample/ui_automation_selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui_automation_selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/abhinavkumardubey/EMR-Automation/myGithubSample/ui_automation_selenium/testng.xml" />
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.LandingPageTest.verifyLandingPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenium" />
+    <option name="lastLanguageId" value="JAVA" />
+    <option name="lastUrl" value="http://www.automationpractice.pl/index.php?controller=authentication" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da26fb5d-0974-4327-abe0-290a5d525f2d" name="Changes" comment="" />
+      <created>1728216614132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728216614132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
